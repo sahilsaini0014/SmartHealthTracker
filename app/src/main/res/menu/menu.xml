@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/bottom_device"
+        android:icon="@drawable/ic_bluetooth_black_24dp"
+        android:title="@string/devices" />
+
+    <item
+        android:id="@+id/bottom_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/settings"
+        />
+
+    <item
+        android:id="@+id/bottom_quit"
+        android:icon="@drawable/ic_settings_power_black_24dp"
+        android:title="@string/quit"
+        />
+</menu>
